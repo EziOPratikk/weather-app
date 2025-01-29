@@ -13,7 +13,7 @@
 
    Add the following line to your .env file:
 
-   `OPEN_WEATHER_API_KEY='your_openweather_api_key''`
+   `OPEN_WEATHER_API_KEY='your_openweather_api_key'`
 
 3. **Install dependencies**
    ```
