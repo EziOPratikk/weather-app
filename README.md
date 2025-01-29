@@ -9,7 +9,7 @@
 
 2. **Create a .env file in the root directory and provide key/value pairs**
 
-   Visit [OpenWeather](https://openweathermap.org/), signin and obtain your API key.
+   Visit [OpenWeather](https://openweathermap.org/) and obtain your API key.
 
    Add the following line to your .env file:
 
