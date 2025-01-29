@@ -21,6 +21,6 @@
    npm run dev
    ```
 ## Screenshots
-<img src='/images/screenshots/Screenshot 2025-01-29 143341.png' style="display: block;"/>
-<img src='/images/screenshots/Screenshot 2025-01-29 143452.png' style="display: block;"/>
-<img src='/images/screenshots/Screenshot 2025-01-29 143612.png' style="display: block;"/>
+<img src='public/images/screenshots/Screenshot 2025-01-29 143341.png' style="display: block;"/>
+<img src='public/images/screenshots/Screenshot 2025-01-29 143452.png' style="display: block;"/>
+<img src='public/images/screenshots/Screenshot 2025-01-29 143612.png' style="display: block;"/>
