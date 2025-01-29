@@ -1,6 +1,6 @@
 # Next.js Weather App
 
-## Steps to run this project
+## Steps to set up & run this project
 
 1. **Clone this repository using below command or fork this project**
    ```
@@ -9,7 +9,11 @@
 
 2. **Create a .env file in the root directory and provide key/value pairs**
 
-   `OPEN_WEATHER_API_KEY: 'your openweather API key'`
+   Visit [OpenWeather](https://openweathermap.org/), signin and obtain your API key.
+
+   Add the following line to your .env file:
+
+   `OPEN_WEATHER_API_KEY='your_openweather_api_key''`
 
 3. **Install dependencies**
    ```
